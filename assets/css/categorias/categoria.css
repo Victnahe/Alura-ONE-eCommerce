@@ -1,0 +1,25 @@
+.categoria {
+    
+    margin: 0 2em 0 0;
+    float: left;
+
+padding: 3px;
+box-shadow: 6px 6px 10px #dfdcdc;
+}
+
+.categoria__item{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+}
+.categoria__descripcion{
+    font-size: 1em;
+    font-weight: bold;
+    width: 100%;
+  margin-top: 5px;
+}
+
+.categoria:hover{
+    border-right: 1.5px solid #a8a8a8;
+    border-bottom: 1.5px solid #a8a8a8;
+}

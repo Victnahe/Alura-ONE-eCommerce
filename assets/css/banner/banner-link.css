@@ -1,0 +1,12 @@
+.banner__link{
+    width: 120px;
+    color: white;
+    border: 1px solid white;
+    background-color: #2a7ae4;
+    text-align: center;
+    line-height: 2.5em;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+}
