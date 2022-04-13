@@ -1,13 +1,13 @@
-.categorias{
-    padding: 2.5em 4em;
+.categorias {
+    padding: 1.5em 4em 0 4em;
 }
 
-.categorias__lista{
+.categorias__lista {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     padding: 1.5em 0 1.5em 0;
     display: flex;
-flex-flow: row;
+    flex-flow: row;
 }

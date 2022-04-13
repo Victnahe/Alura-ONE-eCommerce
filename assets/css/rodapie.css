@@ -1,0 +1,22 @@
+.rodapie{
+    background: #EAF2FD;
+}
+.rodapie_contenedor{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em 4em 0 4em;
+}
+
+.rodapie_referencias{
+    display: flex;
+    flex-direction: row;
+}
+
+.rodapie_credito {
+    background: #ffffff;
+    color: #464646;;
+    text-align: center;
+    padding: 1.2em 4em;
+    font-weight: 600;
+    font-size: 16px;
+}

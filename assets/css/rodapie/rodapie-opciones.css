@@ -1,0 +1,17 @@
+.rodapie__opciones{
+    width: 20%;
+
+}
+.rodapie__opciones-lista{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.rodapie__opciones-item{
+    padding-bottom: 0.8em;
+}
+.rodapie__opciones-item a {
+    text-decoration: none;
+    color: black;
+}
